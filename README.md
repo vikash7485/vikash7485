@@ -3,6 +3,12 @@
 
 ---
 
+<h3>👨‍💻 </h3>
+
+<p align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300"/>
+</p>
+
 ### 👨‍💻 About Me:
 - 🐍 Python Developer  
 - 📚 Strong in Data Structures & Algorithms  
