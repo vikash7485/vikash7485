@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vikash</h1>
+<h3 align="center">Python Developer | DSA Enthusiast 🚀</h3>
 
-<!--
-**vikash7485/vikash7485** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me:
+- 🐍 Python Developer  
+- 📚 Strong in Data Structures & Algorithms  
+- 🚀 Preparing for Open Source  
+- 💡 Love solving real-world problems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 Tech Stack:
+![HTML](https://img.shields.io/badge/html5-orange)
+![CSS](https://img.shields.io/badge/css3-blue)
+![JavaScript](https://img.shields.io/badge/javascript-yellow)
+![React](https://img.shields.io/badge/react-blue)
+![Node.js](https://img.shields.io/badge/node.js-green)
+![MongoDB](https://img.shields.io/badge/mongodb-darkgreen)
+![Python](https://img.shields.io/badge/python-blue)
+![DSA](https://img.shields.io/badge/Data%20Structures-green)
+![Algorithms](https://img.shields.io/badge/Algorithms-orange)
+
+---
+
+### 📚 DSA Topics Covered:
+
+- 📦 Arrays  
+- 🔤 Strings  
+- 🔄 Sorting Algorithms  
+- 🔍 Searching Algorithms  
+- ⏱ Time Complexity  
+- 🔗 Linked List  
+- 🔁 Recursion  
+- 📚 Stacks & Queues  
+- 🌳 Trees & Variants  
+- 🌲 Binary Search Trees  
+
+---
+
+### 📊 GitHub Stats:
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vikash7485&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com/?user=vikash7485&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikash7485&layout=compact&theme=radical)
+
+---
+
+###   
+- 💻 Contribute to Open Source  
+- 📈 Become Strong Problem Solver  
+
+---
+
+### 🌐 Connect with Me:
+
+[LinkedIn](https://linkedin.com/in/vikash-kumar-4660b0384/) | [Email](mailto:vikkiraj073@gmail.com)
