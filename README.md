@@ -63,4 +63,4 @@
 
 ### 🌐 Connect with Me:
 
-[LinkedIn](https://linkedin.com/in/vikash-kumar-4660b0384/) | [Email](mailto:vikkiraj073@gmail.com)
+| [Email](mailto:vikkiraj073@gmail.com)
